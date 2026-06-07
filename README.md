@@ -4,7 +4,7 @@ A modern Android application built to provide an accessible and user-friendly pl
 
 ## Overview
 
-Gateway Education App is a Java-based Android application designed to deliver educational content and resources to users. The app leverages Firebase for real-time data management and storage capabilities.
+Gateway Education App is a Java-based Android application that delivers educational content and resources to users. The app leverages Firebase for real-time data management and storage capabilities.
 
 ## Features
 
@@ -124,17 +124,6 @@ The app uses `google-services.json` for Firebase configuration. Ensure your Fire
 - Realtime Database
 - Cloud Storage
 - Proper security rules
-
-### ProGuard Rules
-Production builds use ProGuard for code obfuscation. Custom rules are defined in `app/proguard-rules.pro`.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bug reports and feature requests.
-
-## License
-
-This project is open source and available under the MIT License.
 
 ## Author
 
