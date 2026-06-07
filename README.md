@@ -140,7 +140,16 @@ This project is open source and available under the MIT License.
 
 **Ayushtyagi1337** - [GitHub Profile](https://github.com/Ayushtyagi1337)
 
+## Commit History
+
+### Recent Commits
+
+| Commit Hash | Message | Author | Date |
+|-------------|---------|--------|------|
+| `570f77b` | Add comprehensive README documentation | Ayushtyagi1337 | June 7, 2026 at 5:13 AM UTC |
+| `ed71c2e` | Education App | Ayush | June 2, 2022 at 6:28 PM UTC |
+
 ---
 
-**Last Updated**: June 2022  
+**Last Updated**: June 2026  
 **Repository**: [GatewayEducationApp](https://github.com/Ayushtyagi1337/GatewayEducationApp)
